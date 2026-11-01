@@ -1,0 +1,56 @@
+name: Erro na tradução
+description: Texto cortado, em inglês, erro de português, travamento...
+labels: ["erro"]
+body:
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - Texto cortado ou saindo da caixa
+        - Texto ainda em inglês
+        - Erro de português ou tradução estranha
+        - Imagem com texto em inglês
+        - Travamento ou tela preta
+        - Outro
+    validations:
+      required: true
+  - type: dropdown
+    id: edicao
+    attributes:
+      label: Versão do patch usada
+      options: ["Completa (tudo em português)", "Purista (nomes e imagens originais)"]
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do patch
+      placeholder: "v0.9-beta"
+    validations:
+      required: true
+  - type: input
+    id: lugar
+    attributes:
+      label: Onde aconteceu
+      description: Cidade, mapa, cena ou menu.
+      placeholder: "Alexandria, casa da Jessica, depois da fala do Yangus"
+    validations:
+      required: true
+  - type: textarea
+    id: texto
+    attributes:
+      label: O que aparece e o que deveria aparecer
+      description: Copie o texto da tela. Se for erro de português, sugira a correção.
+    validations:
+      required: true
+  - type: textarea
+    id: print
+    attributes:
+      label: Print da tela
+      description: Arraste a imagem para cá. Ajuda muito!
+  - type: input
+    id: emulador
+    attributes:
+      label: Emulador e versão
+      placeholder: "Azahar 2121 / 3DS com Luma"

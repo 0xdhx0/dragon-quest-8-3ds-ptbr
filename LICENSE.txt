@@ -1,0 +1,22 @@
+Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR
+Termos de uso
+
+1. Este patch é uma tradução de fãs, gratuita e sem fins lucrativos. Ele não tem nenhuma ligação com a SQUARE ENIX
+   ou qualquer outra empresa, e não é oficial nem aprovado por elas.
+
+2. Você pode baixar, usar e compartilhar o patch de graça, desde que:
+   - não o venda nem cobre por ele, sozinho ou junto com outros arquivos;
+   - não o use para monetizar nada (pacotes pagos, sites com cobrança para baixar etc.);
+   - não distribua ROMs do jogo (.3ds, .cia), traduzidas ou não;
+   - mantenha os créditos e este aviso ao redistribuí-lo.
+
+3. Para usar o patch, é preciso ter uma cópia do jogo original. O pacote contém só os arquivos alterados pela tradução
+   (pasta LayeredFS) e não funciona sozinho.
+
+4. Dragon Quest VIII: Journey of the Cursed King e todos os nomes, marcas, personagens e conteúdos do jogo pertencem
+   aos seus donos (© ARMOR PROJECT/BIRD STUDIO/LEVEL-5/SQUARE ENIX).
+
+5. O patch é fornecido "como está", sem garantias. Os autores não se responsabilizam por perda de saves, dados ou
+   qualquer outro problema. Faça backup antes de usar.
+
+6. Se você é detentor de algum direito e quer que algo seja retirado, entre em contato pelo repositório do projeto.
