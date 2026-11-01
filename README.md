@@ -25,24 +25,27 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Dentro do zip | O que é |
 |---|---|
 | `LayeredFS-NomesTraduzidos/000400000018F100/` | Versão Nomes Traduzidos (tudo em português) |
-| `LayeredFS-NomesOriginais/000400000018F100/` | Versão Nomes Originais (história e menus em português; nomes e imagens originais) |
+| `LayeredFS-NomesOriginais/000400000018F100/` | Versão Nomes Originais (história e menus em português; nomes de magias, itens, monstros, nomes próprios e imagens originais) |
 
 ## 🎭 Duas versões: escolha a sua
 
 | | **Nomes Traduzidos** | **Nomes Originais** |
 |---|---|---|
 | História, diálogos, menus e mensagens | Português | Português |
-| Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais em inglês (*Frizz, Kafrizzle, Penny Pincher*) |
+| Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais (*Frizz, Kafrizzle, Penny Pincher*) |
 | Itens, armas e equipamentos | Português (*Erva Medicinal, Asa de Quimera*) | Originais (*Medicinal Herb, Chimaera Wing*) |
-| Monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
-| Lugares | Português (*Larápia, Simplória, Castelo de Trodain*) | Originais (*Pickham, Simpleton, Castle Trodain*) |
-| Títulos e personagens secundários | Português | Originais |
+| Monstros e golpes de monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
+| Cidades e personagens com nome próprio recriado | Português (*Larápia, Simplória, Porto Promessa, Zé Mutreta*) | Originais (*Pickham, Simpleton, Port Prospect, Dodgy Dave*) |
+| Lugares com nome comum | Português (*Castelo de Trodain, Cemitério dos Dragões*) | Português (iguais) |
+| Títulos de classe e de personagem | Português (*Espadachim Básico, Rei das Medalhas*) | Português (iguais) |
+| Nomes próprios (Yangus, Jessica, Farebury, Baccarat…) | Iguais | Iguais |
+| PV / PM | PV / PM | PV / PM |
 | Imagens com texto (título, cassino, bingo, roleta) | Traduzidas | Originais |
 
 - **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
-- **Nomes Originais:** para quem gosta dos nomes do jogo original. Só a **história e os menus** ficam em português; magias, itens,
-  monstros, lugares e as imagens ficam como no jogo original. A frase em volta segue em português ("Jessica aprende
-  Kafrizzle!").
+- **Nomes Originais:** para quem prefere os nomes do jogo original. Ficam como no original os nomes de magias,
+  habilidades, itens, equipamentos e monstros, os nomes próprios e as imagens; todo o resto fica em português,
+  inclusive títulos e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!").
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
 
