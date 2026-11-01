@@ -37,15 +37,16 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Monstros e golpes de monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
 | Cidades e personagens com nome próprio recriado | Português (*Larápia, Simplória, Porto Promessa, Zé Mutreta*) | Originais (*Pickham, Simpleton, Port Prospect, Dodgy Dave*) |
 | Lugares com nome comum | Português (*Castelo de Trodain, Cemitério dos Dragões*) | Português (iguais) |
-| Títulos de classe e de personagem | Português (*Espadachim Básico, Rei das Medalhas*) | Português (iguais) |
+| Títulos das habilidades (ganhos ao subir de nível) | Português (*Espadachim Básico*) | Originais (*Basic Sword Fighter*) |
+| Títulos de personagem | Português (*Rei Trode, Grão-Sacerdote*) | Português (iguais) |
 | Nomes próprios (Yangus, Jessica, Farebury, Baccarat…) | Iguais | Iguais |
 | PV / PM | PV / PM | PV / PM |
 | Imagens com texto (título, cassino, bingo, roleta) | Traduzidas | Originais |
 
 - **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
 - **Nomes Originais:** para quem prefere os nomes do jogo original. Ficam como no original os nomes de magias,
-  habilidades, itens, equipamentos e monstros, os nomes próprios e as imagens; todo o resto fica em português,
-  inclusive títulos e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!").
+  habilidades, itens, equipamentos e monstros, os títulos das habilidades, os nomes próprios e as imagens; todo o
+  resto fica em português, inclusive títulos de personagem e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!").
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
 
@@ -54,7 +55,7 @@ As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o sa
 | Parte | Textos | Cobertura |
 |---|---|---|
 | Diálogos, cenas, conversas do grupo, livros e placas | 28.849 | 100% |
-| Menus, itens, magias, habilidades, monstros, batalha, lojas, igreja, Arena, cassino, missões | 7.487 | 100% |
+| Menus, itens, magias, habilidades, monstros, batalha, lojas, igreja, Arena, cassino, missões | 7.505 | 100% |
 | Imagens e texturas com texto (título, estúdio de fotos, bingo, roleta, fichas) | 19 | 100% das encontradas |
 
 - **Tudo a partir do inglês**, a versão famosa pelo humor britânico, pelos sotaques e pelos nomes cheios de
