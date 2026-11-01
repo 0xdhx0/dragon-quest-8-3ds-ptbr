@@ -19,7 +19,7 @@ body:
     id: edicao
     attributes:
       label: Versão do patch usada
-      options: ["Completa (tudo em português)", "Purista (nomes e imagens originais)"]
+      options: ["Completa (tudo em português)", "Nomes Originais (nomes e imagens do jogo original)"]
     validations:
       required: true
   - type: input
