@@ -24,12 +24,12 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 
 | Dentro do zip | O que é |
 |---|---|
-| `LayeredFS-Completa/000400000018F100/` | Versão Completa (tudo em português) |
+| `LayeredFS-NomesTraduzidos/000400000018F100/` | Versão Nomes Traduzidos (tudo em português) |
 | `LayeredFS-NomesOriginais/000400000018F100/` | Versão Nomes Originais (história e menus em português; nomes e imagens originais) |
 
 ## 🎭 Duas versões: escolha a sua
 
-| | **Completa** | **Nomes Originais** |
+| | **Nomes Traduzidos** | **Nomes Originais** |
 |---|---|---|
 | História, diálogos, menus e mensagens | Português | Português |
 | Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais em inglês (*Frizz, Kafrizzle, Penny Pincher*) |
@@ -39,7 +39,7 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Títulos e personagens secundários | Português | Originais |
 | Imagens com texto (título, cassino, bingo, roleta) | Traduzidas | Originais |
 
-- **Completa:** o jogo todo em português, com os trocadilhos dos nomes recriados.
+- **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
 - **Nomes Originais:** para quem gosta dos nomes do jogo original. Só a **história e os menus** ficam em português; magias, itens,
   monstros, lugares e as imagens ficam como no jogo original. A frase em volta segue em português ("Jessica aprende
   Kafrizzle!").
@@ -86,7 +86,7 @@ Você precisa da sua **própria cópia** do jogo, versão **americana (USA)**. *
 
 ## 💾 Instalação
 
-Escolha **uma** versão (Completa ou Nomes Originais) e copie a pasta dela. Funciona com o jogo como você já joga: cartucho,
+Escolha **uma** versão (Nomes Traduzidos ou Nomes Originais) e copie a pasta dela. Funciona com o jogo como você já joga: cartucho,
 cópia instalada ou `.3ds`.
 
 - **🖥️ Emulador Azahar (ou Citra/Lime3DS):** clique com o botão direito no jogo → *Open Mods Location* (ou abra a
@@ -116,7 +116,7 @@ Saves do jogo em inglês funcionam normalmente.
 
 ## 🐞 Achou um erro?
 
-Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão (Completa ou
+Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão (Nomes Traduzidos ou
 Nomes Originais), o lugar do jogo e, se puder, mande um print. Toda correção de português também é bem-vinda.
 
 ## 🙏 Créditos
