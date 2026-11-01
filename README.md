@@ -1,3 +1,5 @@
+![Dragon Quest VIII: Journey of the Cursed King — Tradução PT-BR](imagens/banner.png)
+
 # 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.0 (beta)
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
