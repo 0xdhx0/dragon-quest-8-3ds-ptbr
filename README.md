@@ -46,7 +46,7 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 - **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
 - **Nomes Originais:** para quem prefere os nomes do jogo original. Ficam como no original os nomes de magias,
   habilidades, itens, equipamentos e monstros, os títulos das habilidades, os nomes próprios e as imagens; todo o
-  resto fica em português, inclusive títulos de personagem e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!").
+  resto fica em português, inclusive títulos de personagem e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!"), e os monstros citados no meio dela também ficam no original ("vivem em simbiose com os dingalings").
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
 
@@ -69,8 +69,8 @@ As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o sa
 
 ### Alguns exemplos
 
-- **Magias:** *Frizz/Frizzle/Kafrizzle → Fogo/Fogaréu/Kafogaréu · Bang/Boom/Kaboom → Pum/Bum/Kabum*
-- **Habilidades:** *Penny Pincher → Pão-Duro · Hip Drop → Rebolada*
+- **Magias:** *Frizz/Frizzle/Kafrizzle → Fogo/Fogaréu/Kafogaréu · Bang/Boom/Kaboom → Pou/Bum/Kabum*
+- **Habilidades:** *Penny Pincher → Pão-Duro · Hip Drop → Rebolada · Golden Oldies → Velha Guarda*
 - **Monstros:** os clássicos da série ficam (Slime, Dracky, Golem); os demais ganham nomes com graça (*Lips → Beiçola*).
 - **Cidades:** os nomes próprios ficam (Farebury, Alexandria, Baccarat); as que são piada foram recriadas
   (*Pickham → Larápia · Simpleton → Simplória · Port Prospect → Porto Promessa*).
