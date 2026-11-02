@@ -25,29 +25,33 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Dentro do zip | O que é |
 |---|---|
 | `LayeredFS-NomesTraduzidos/000400000018F100/` | Versão Nomes Traduzidos (tudo em português) |
-| `LayeredFS-NomesOriginais/000400000018F100/` | Versão Nomes Originais (história e menus em português; nomes de magias, itens, monstros, nomes próprios e imagens originais) |
+| `LayeredFS-NomesOriginais/000400000018F100/` | Versão Nomes Originais (menus, história e descrições em português; todos os nomes e as imagens como no original) |
 
 ## 🎭 Duas versões: escolha a sua
 
 | | **Nomes Traduzidos** | **Nomes Originais** |
 |---|---|---|
-| História, diálogos, menus e mensagens | Português | Português |
+| Menus e telas | Português | Português |
+| História, diálogos e mensagens | Português | Português |
+| Descrições de itens, magias, habilidades e monstros | Português | Português |
+| Piadas, sotaques e trocadilhos dentro das falas | Recriados em português | Recriados em português |
 | Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais (*Frizz, Kafrizzle, Penny Pincher*) |
 | Itens, armas e equipamentos | Português (*Erva Medicinal, Asa de Quimera*) | Originais (*Medicinal Herb, Chimaera Wing*) |
 | Monstros e golpes de monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
-| Nomes que são trocadilho (cidades, personagens, chefes, times da Arena) | Português (*Larápia, Simplória, Zé Mutreta, Gêiser, Calamarão*) | Originais (*Pickham, Simpleton, Dodgy Dave, Geyzer, Khalamari*) |
+| Nomes que são trocadilho (cidades, personagens, chefes, times e apelidos da Arena) | Português (*Larápia, Simplória, Zé Mutreta, Gêiser, Calamarão*) | Originais (*Pickham, Simpleton, Dodgy Dave, Geyzer, Khalamari*) |
 | Lugares com nome comum | Português (*Castelo de Trodain, Caverna da Cachoeira*) | Originais (*Trodain Castle, Waterfall Cave*) |
 | Títulos das habilidades (ganhos ao subir de nível) | Português (*Espadachim Básico*) | Originais (*Basic Sword Fighter*) |
-| Títulos de personagem | Português (*Rei Trode, Grão-Sacerdote*) | Português (iguais) |
-| Nomes próprios (Yangus, Jessica, Farebury, Baccarat…) | Iguais | Iguais |
+| Títulos com nome (o título se traduz, o nome não) | Português (*Rei Trode, Princesa Medea, Grão-Sacerdote*) | Originais (*King Trode, Princess Medea, Lord High Priest*) |
+| Nomes próprios sem trocadilho (Yangus, Jessica, Medea, Farebury, Baccarat, Rhapthorne…) | Iguais | Iguais |
 | PV / PM | PV / PM | PV / PM |
 | Imagens com texto (título, cassino, bingo, roleta) | Traduzidas | Originais |
 
-- **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
-- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. Fica como no original todo nome que o guia
-  cita: magias, habilidades, itens, equipamentos, monstros, títulos das habilidades, lugares, nomes próprios e os
-  nomes-trocadilho (Pickham, Geyzer, Dodgy Dave), além das imagens. Todo o resto fica em português, inclusive os
-  títulos antes do nome (Rei Trode, Princesa Medea). A frase em volta segue em português ("Jessica aprende Kafrizzle!"), e os monstros citados no meio dela também ficam no original ("vivem em simbiose com os dingalings").
+- **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados. Nome próprio não se traduz,
+  mas o título que vem com ele sim ("King Trode" = "Rei Trode").
+- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. Em português ficam só os menus, a história
+  (diálogos) e as descrições; todo nome fica como no original (magias, habilidades, itens, monstros, lugares,
+  trocadilhos, títulos com nome), além das imagens. A frase em volta segue em português ("Jessica aprende Kafrizzle!",
+  "o King Trode quer ir para Waterfall Cave"), e os monstros citados no meio dela também ficam no original.
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
 
@@ -83,7 +87,12 @@ As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o sa
 | O quê | Por quê |
 |---|---|
 | Nomes próprios (Yangus, Jessica, Angelo, Farebury, Baccarat…) | São nomes, iguais em todas as versões do jogo. |
-| Logotipo, subtítulo do logotipo e copyright | Arte e marcas registradas. |
+| Logotipo, subtítulo do logotipo ("Journey of the Cursed King") e copyright | Arte e marcas registradas. |
+| Letreiros desenhados ("Chance!", SLIME BINGO, CASINO) | Fazem parte da arte dos cenários. |
+| Falas em italiano do Morrie e em francês da moça do Puff-Puff | De propósito, como no original (o sotaque é a piada). |
+| Puff-Puff | Piada clássica da série; o nome é o mesmo em todas as línguas. |
+| Slime, Golem e Orc | Nomes de monstros que já são palavras usadas em português. |
+| Nomes da equipe nos créditos | Nomes próprios. |
 | Vídeos (abertura e "The End") | O texto está gravado no vídeo; a versão europeia usa os mesmos vídeos em inglês. |
 | Vozes | Ficam as vozes originais. |
 
