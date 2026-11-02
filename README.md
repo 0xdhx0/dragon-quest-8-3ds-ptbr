@@ -35,8 +35,8 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais (*Frizz, Kafrizzle, Penny Pincher*) |
 | Itens, armas e equipamentos | Português (*Erva Medicinal, Asa de Quimera*) | Originais (*Medicinal Herb, Chimaera Wing*) |
 | Monstros e golpes de monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
-| Nomes que são trocadilho (cidades, personagens, chefes) | Português (*Larápia, Simplória, Zé Mutreta, Gêiser, Calamarão*) | Português (iguais: a piada só funciona em português) |
-| Lugares com nome comum | Português (*Castelo de Trodain, Cemitério dos Dragões*) | Português (iguais) |
+| Nomes que são trocadilho (cidades, personagens, chefes, times da Arena) | Português (*Larápia, Simplória, Zé Mutreta, Gêiser, Calamarão*) | Originais (*Pickham, Simpleton, Dodgy Dave, Geyzer, Khalamari*) |
+| Lugares com nome comum | Português (*Castelo de Trodain, Caverna da Cachoeira*) | Originais (*Trodain Castle, Waterfall Cave*) |
 | Títulos das habilidades (ganhos ao subir de nível) | Português (*Espadachim Básico*) | Originais (*Basic Sword Fighter*) |
 | Títulos de personagem | Português (*Rei Trode, Grão-Sacerdote*) | Português (iguais) |
 | Nomes próprios (Yangus, Jessica, Farebury, Baccarat…) | Iguais | Iguais |
@@ -44,9 +44,10 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Imagens com texto (título, cassino, bingo, roleta) | Traduzidas | Originais |
 
 - **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
-- **Nomes Originais:** para quem prefere os nomes do jogo original. Ficam como no original os nomes de magias,
-  habilidades, itens, equipamentos e monstros, os títulos das habilidades, os nomes próprios e as imagens; todo o
-  resto fica em português, inclusive os nomes-trocadilho recriados (Larápia, Zé Mutreta, Gêiser), inclusive títulos de personagem e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!"), e os monstros citados no meio dela também ficam no original ("vivem em simbiose com os dingalings").
+- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. Fica como no original todo nome que o guia
+  cita: magias, habilidades, itens, equipamentos, monstros, títulos das habilidades, lugares, nomes próprios e os
+  nomes-trocadilho (Pickham, Geyzer, Dodgy Dave), além das imagens. Todo o resto fica em português, inclusive os
+  títulos antes do nome (Rei Trode, Princesa Medea). A frase em volta segue em português ("Jessica aprende Kafrizzle!"), e os monstros citados no meio dela também ficam no original ("vivem em simbiose com os dingalings").
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
 
