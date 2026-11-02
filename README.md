@@ -35,7 +35,7 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais (*Frizz, Kafrizzle, Penny Pincher*) |
 | Itens, armas e equipamentos | Português (*Erva Medicinal, Asa de Quimera*) | Originais (*Medicinal Herb, Chimaera Wing*) |
 | Monstros e golpes de monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
-| Cidades e personagens com nome próprio recriado | Português (*Larápia, Simplória, Porto Promessa, Zé Mutreta*) | Originais (*Pickham, Simpleton, Port Prospect, Dodgy Dave*) |
+| Nomes que são trocadilho (cidades, personagens, chefes) | Português (*Larápia, Simplória, Zé Mutreta, Gêiser, Calamarão*) | Português (iguais: a piada só funciona em português) |
 | Lugares com nome comum | Português (*Castelo de Trodain, Cemitério dos Dragões*) | Português (iguais) |
 | Títulos das habilidades (ganhos ao subir de nível) | Português (*Espadachim Básico*) | Originais (*Basic Sword Fighter*) |
 | Títulos de personagem | Português (*Rei Trode, Grão-Sacerdote*) | Português (iguais) |
@@ -46,7 +46,7 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 - **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
 - **Nomes Originais:** para quem prefere os nomes do jogo original. Ficam como no original os nomes de magias,
   habilidades, itens, equipamentos e monstros, os títulos das habilidades, os nomes próprios e as imagens; todo o
-  resto fica em português, inclusive títulos de personagem e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!"), e os monstros citados no meio dela também ficam no original ("vivem em simbiose com os dingalings").
+  resto fica em português, inclusive os nomes-trocadilho recriados (Larápia, Zé Mutreta, Gêiser), inclusive títulos de personagem e lugares com nome comum. A frase em volta segue em português ("Jessica aprende Kafrizzle!"), e os monstros citados no meio dela também ficam no original ("vivem em simbiose com os dingalings").
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
 
@@ -71,7 +71,9 @@ As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o sa
 
 - **Magias:** *Frizz/Frizzle/Kafrizzle → Fogo/Fogaréu/Kafogaréu · Bang/Boom/Kaboom → Pou/Bum/Kabum*
 - **Habilidades:** *Penny Pincher → Pão-Duro · Hip Drop → Rebolada · Golden Oldies → Velha Guarda*
-- **Monstros:** os clássicos da série ficam (Slime, Dracky, Golem); os demais ganham nomes com graça (*Lips → Beiçola*).
+- **Monstros:** traduzidos, com graça (*Lips → Beiçola · Dracky → Draculino · Troll → Trasgo · Mimic → Mímico*);
+  Slime, Golem e Orc ficam, porque já são palavras do português.
+- **Chefes com nome-trocadilho:** recriados (*Geyzer → Gêiser · Khalamari → Calamarão · Juggerwroth → Colossira*).
 - **Cidades:** os nomes próprios ficam (Farebury, Alexandria, Baccarat); as que são piada foram recriadas
   (*Pickham → Larápia · Simpleton → Simplória · Port Prospect → Porto Promessa*).
 
