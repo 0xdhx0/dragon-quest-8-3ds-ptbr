@@ -1,6 +1,6 @@
 ![Dragon Quest VIII: Journey of the Cursed King — Tradução PT-BR](imagens/banner.png)
 
-# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.0
+# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.1
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%203DS%20(Azahar)-ce181e)
@@ -17,15 +17,15 @@ fim desta página).*
 > ✅ O jogo inteiro está traduzido e foi testado no emulador Azahar. Se achar algum problema, abra uma
 > [issue](../../issues).
 
-## 📥 Download (v1.0)
+## 📥 Download (v1.1)
 
-**[⬇️ Baixar `DQ8_3DS_PTBR_v1.0.zip`](../../releases/latest)**: as duas versões em pasta **LayeredFS** (é só
+**[⬇️ Baixar `DQ8_3DS_PTBR_v1.1.zip`](../../releases/latest)**: as duas versões em pasta **LayeredFS** (é só
 copiar), o guia `LEIA-ME.txt` e os termos de uso.
 
 | Dentro do zip | O que é |
 |---|---|
 | `LayeredFS-NomesTraduzidos/000400000018F100/` | Versão Nomes Traduzidos (tudo em português) |
-| `LayeredFS-NomesOriginais/000400000018F100/` | Versão Nomes Originais (menus, história e descrições em português; todos os nomes e as imagens como no original) |
+| `LayeredFS-NomesOriginais/000400000018F100/` | Versão Nomes Originais (igual à Nomes Traduzidos, mas com os nomes que se procuram num guia e as imagens como no original) |
 
 ## 🎭 Duas versões: escolha a sua
 
@@ -38,20 +38,23 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais (*Frizz, Kafrizzle, Penny Pincher*) |
 | Itens, armas e equipamentos | Português (*Erva Medicinal, Asa de Quimera*) | Originais (*Medicinal Herb, Chimaera Wing*) |
 | Monstros e golpes de monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
-| Nomes que são trocadilho (cidades, personagens, chefes, times e apelidos da Arena) | Português (*Larápia, Simplória, Zé Mutreta, Gêiser, Calamarão*) | Originais (*Pickham, Simpleton, Dodgy Dave, Geyzer, Khalamari*) |
-| Lugares com nome comum | Português (*Castelo de Trodain, Caverna da Cachoeira*) | Originais (*Trodain Castle, Waterfall Cave*) |
+| Lugares (cidades, mapas, masmorras), inclusive os de nome comum | Português (*Castelo de Trodain, Caverna da Cachoeira, Larápia*) | Originais (*Trodain Castle, Waterfall Cave, Pickham*) |
+| Chefes, times e apelidos da Arena com nome-trocadilho | Português (*Gêiser, Calamarão, Barrigudos Brigões*) | Originais (*Geyzer, Khalamari, Belly Bruisers*) |
 | Títulos das habilidades (ganhos ao subir de nível) | Português (*Espadachim Básico*) | Originais (*Basic Sword Fighter*) |
-| Títulos com nome (o título se traduz, o nome não) | Português (*Rei Trode, Princesa Medea, Grão-Sacerdote*) | Originais (*King Trode, Princess Medea, Lord High Priest*) |
+| Apelidos-trocadilho de personagem | Português (*Zé Mutreta, Cabeção*) | Originais (*Dodgy Dave, Brains*) |
+| Títulos com nome (o título se traduz, o nome não) | Português (*Rei Trode, Princesa Medea, Grão-Sacerdote*) | Português (iguais) |
+| Títulos sem nome (Rei das Medalhas) | Português | Português (iguais) |
 | Nomes próprios sem trocadilho (Yangus, Jessica, Medea, Farebury, Baccarat, Rhapthorne…) | Iguais | Iguais |
 | PV / PM | PV / PM | PV / PM |
 | Imagens com texto (título, cassino, bingo, roleta) | Traduzidas | Originais |
 
 - **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados. Nome próprio não se traduz,
   mas o título que vem com ele sim ("King Trode" = "Rei Trode").
-- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. Em português ficam só os menus, a história
-  (diálogos) e as descrições; todo nome fica como no original (magias, habilidades, itens, monstros, lugares,
-  trocadilhos, títulos com nome), além das imagens. A frase em volta segue em português ("Jessica aprende Kafrizzle!",
-  "o King Trode quer ir para Waterfall Cave"), e os monstros citados no meio dela também ficam no original.
+- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
+  procura num guia: os nomes de **lugares, itens, equipamentos, magias, habilidades e monstros** (e os trocadilhos
+  dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
+  descrições e títulos com nome. A frase em volta segue em português ("Jessica aprende Kafrizzle!", "o Rei Trode quer
+  ir para Waterfall Cave"), e os monstros citados no meio dela também ficam no original.
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
 
