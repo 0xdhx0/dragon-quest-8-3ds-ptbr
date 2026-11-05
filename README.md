@@ -1,6 +1,6 @@
 ![Dragon Quest VIII: Journey of the Cursed King — Tradução PT-BR](imagens/banner.png)
 
-# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.1
+# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.2
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%203DS%20(Azahar)-ce181e)
@@ -17,9 +17,9 @@ fim desta página).*
 > ✅ O jogo inteiro está traduzido e foi testado no emulador Azahar. Se achar algum problema, abra uma
 > [issue](../../issues).
 
-## 📥 Download (v1.1)
+## 📥 Download (v1.2)
 
-**[⬇️ Baixar `DQ8_3DS_PTBR_v1.1.zip`](../../releases/latest)**: as duas versões em pasta **LayeredFS** (é só
+**[⬇️ Baixar `DQ8_3DS_PTBR_v1.2.zip`](../../releases/latest)**: as duas versões em pasta **LayeredFS** (é só
 copiar), o guia `LEIA-ME.txt` e os termos de uso.
 
 | Dentro do zip | O que é |
@@ -35,10 +35,11 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 | História, diálogos e mensagens | Português | Português |
 | Descrições de itens, magias, habilidades e monstros | Português | Português |
 | Piadas, sotaques e trocadilhos dentro das falas | Recriados em português | Recriados em português |
-| Magias, habilidades e golpes | Português (*Fogo, Kafogaréu, Pão-Duro*) | Originais (*Frizz, Kafrizzle, Penny Pincher*) |
+| Magias, habilidades e golpes | Português (*Fogo, Megafogo, Pão-Duro*) | Originais (*Frizz, Kafrizzle, Penny Pincher*) |
 | Itens, armas e equipamentos | Português (*Erva Medicinal, Asa de Quimera*) | Originais (*Medicinal Herb, Chimaera Wing*) |
 | Monstros e golpes de monstros | Português (*Beiçola, Gato Guloso*) | Originais (*Lips, Candy Cat*) |
-| Lugares (cidades, mapas, masmorras), inclusive os de nome comum | Português (*Castelo de Trodain, Caverna da Cachoeira, Larápia*) | Originais (*Trodain Castle, Waterfall Cave, Pickham*) |
+| Cidades e mapas onde se passa, inclusive os de nome comum | Português (*Castelo de Trodain, Caverna da Cachoeira, Larápia*) | Originais (*Trodain Castle, Waterfall Cave, Pickham*) |
+| Reinos, navios e lugares só citados | Português (*Reino de Trodain, Dama Fina, Portas do Juízo*) | Português (iguais) |
 | Chefes, times e apelidos da Arena com nome-trocadilho | Português (*Gêiser, Calamarão, Barrigudos Brigões*) | Originais (*Geyzer, Khalamari, Belly Bruisers*) |
 | Títulos das habilidades (ganhos ao subir de nível) | Português (*Espadachim Básico*) | Originais (*Basic Sword Fighter*) |
 | Apelidos-trocadilho de personagem | Português (*Zé Mutreta, Cabeção*) | Originais (*Dodgy Dave, Brains*) |
@@ -51,9 +52,9 @@ copiar), o guia `LEIA-ME.txt` e os termos de uso.
 - **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados. Nome próprio não se traduz,
   mas o título que vem com ele sim ("King Trode" = "Rei Trode").
 - **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
-  procura num guia: os nomes de **lugares, itens, equipamentos, magias, habilidades e monstros** (e os trocadilhos
-  dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
-  descrições e títulos com nome. A frase em volta segue em português ("Jessica aprende Kafrizzle!", "o Rei Trode quer
+  procura num guia: os nomes de **cidades e mapas, itens, equipamentos, magias, habilidades e monstros** (e os
+  trocadilhos dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
+  descrições, títulos com nome, reinos e navios. A frase em volta segue em português ("Jessica aprende Kafrizzle!", "o Rei Trode quer
   ir para Waterfall Cave"), e os monstros citados no meio dela também ficam no original.
 
 As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o save é o mesmo.
@@ -77,7 +78,9 @@ As duas usam o mesmo jogo original e podem ser trocadas a qualquer momento: o sa
 
 ### Alguns exemplos
 
-- **Magias:** *Frizz/Frizzle/Kafrizzle → Fogo/Fogaréu/Kafogaréu · Bang/Boom/Kaboom → Pou/Bum/Kabum*
+- **Magias:** *Frizz/Frizzle/Kafrizzle → Fogo/Superfogo/Megafogo · Bang/Boom/Kaboom → Explosão/Superexplosão/Megaexplosão*.
+  Os nomes seguem a ideia da versão francesa do jogo (Flamme, Superflamme, Mégaflamme): o prefixo "Ka-" do inglês não faz
+  sentido em português, e com Super e Mega dá para ver a força da magia só pelo nome.
 - **Habilidades:** *Penny Pincher → Pão-Duro · Hip Drop → Rebolada · Golden Oldies → Velha Guarda*
 - **Monstros:** traduzidos, com graça (*Lips → Beiçola · Dracky → Draculino · Troll → Trasgo · Mimic → Mímico*);
   Slime, Golem e Orc ficam, porque já são palavras do português.
