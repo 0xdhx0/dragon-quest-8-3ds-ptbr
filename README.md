@@ -27,11 +27,11 @@ fim desta página).*
 |---|---|
 | ![Tela de título](imagens/fotos/01.jpg) | ![Menu do diário de aventura](imagens/fotos/02.jpg) |
 | Tela de título | Menu do diário de aventura |
-| ![Menu do campo](imagens/fotos/03.jpg) | ![Atributos e habilidades do Yangus](imagens/fotos/04.jpg) |
+| ![Menu do campo](imagens/fotos/03_campo.jpg) | ![Atributos e habilidades do Yangus](imagens/fotos/04.jpg) |
 | Menu do campo | Atributos e habilidades do Yangus |
 | ![Registros com o Rei Trode](imagens/fotos/05.jpg) | ![Diário de Batalhas](imagens/fotos/06.jpg) |
 | Registros com o Rei Trode | Diário de Batalhas |
-| ![Comandos da batalha](imagens/fotos/07.jpg) | ![Ações do personagem](imagens/fotos/08.jpg) |
+| ![Comandos da batalha](imagens/fotos/07_batalha.jpg) | ![Ações do personagem](imagens/fotos/08.jpg) |
 | Comandos da batalha | Ações do personagem |
 
 *Fotos da versão Nomes Traduzidos, no emulador Azahar.*
