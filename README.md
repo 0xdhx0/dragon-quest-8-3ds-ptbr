@@ -1,6 +1,6 @@
 ![Dragon Quest VIII: Journey of the Cursed King — Tradução PT-BR](imagens/banner.png)
 
-# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.2
+# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.3
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%203DS%20(Azahar)-ce181e)
@@ -17,9 +17,13 @@ fim desta página).*
 > ✅ O jogo inteiro está traduzido e foi testado no emulador Azahar. Se achar algum problema, abra uma
 > [issue](../../issues).
 
-## 📥 Download (v1.2)
+> 🇯🇵 **Na v1.3, todo o texto foi revisado de novo comparando com a versão japonesa do jogo**: nomes, magias, habilidades,
+> descrições e todos os diálogos. Foram corrigidos singular/plural e gênero de quem fala, sentidos que o inglês deixava
+> ambíguos e expressões traduzidas ao pé da letra, mantendo as piadas e sotaques da versão inglesa.
 
-**[⬇️ Baixar `DQ8_3DS_PTBR_v1.2.zip`](../../releases/latest)**: as duas versões em pasta **LayeredFS** (é só
+## 📥 Download (v1.3)
+
+**[⬇️ Baixar `DQ8_3DS_PTBR_v1.3.zip`](../../releases/latest)**: as duas versões em pasta **LayeredFS** (é só
 copiar), o guia `LEIA-ME.txt` e os termos de uso.
 
 | Dentro do zip | O que é |
