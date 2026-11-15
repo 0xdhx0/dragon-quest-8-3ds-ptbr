@@ -1,6 +1,6 @@
 ![Dragon Quest VIII: Journey of the Cursed King — Tradução PT-BR](imagens/banner.png)
 
-# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR v1.6
+# 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%203DS%20(Azahar)-ce181e)
@@ -33,16 +33,10 @@ fim desta página).*
 
 *Fotos no emulador Azahar.*
 
-## 📥 Download (v1.6)
+## 📥 Download
 
-**[⬇️ Baixar `DQ8_3DS_PTBR_v1.6.zip`](../../releases/latest)**: a tradução em pasta **LayeredFS** (é só copiar), o guia
-`LEIA-ME.txt` e os termos de uso.
-
-| Dentro do zip | O que é |
-|---|---|
-| `LayeredFS/000400000018F100/` | A tradução (copie esta pasta) |
-| `LEIA-ME.txt` | Guia de instalação |
-| `LICENSE.txt` | Termos de uso |
+**[⬇️ Baixar a tradução](../../releases/latest)** (página da versão mais recente). Dentro do zip vem a pasta da tradução e
+um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** abaixo.
 
 ## 🎮 O que foi traduzido
 
@@ -102,7 +96,7 @@ instalada ou `.3ds`.
 - **🎮 3DS com Luma3DS:** copie a pasta `000400000018F100` para `SD:/luma/titles/` (o caminho final
   fica `SD:/luma/titles/000400000018F100/romfs/...`). Ligue o console segurando **SELECT** e ative
   **"Enable game patching"** no menu do Luma.
-- **Para atualizar** a partir de qualquer versão anterior (v1.0 a v1.5), apague a pasta
+- **Para atualizar** a partir de qualquer versão anterior, apague a pasta
   `000400000018F100` antiga e copie a nova. **Para voltar ao inglês**, só apague a pasta.
 
 Saves do jogo em inglês funcionam normalmente.
