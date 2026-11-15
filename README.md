@@ -30,7 +30,6 @@ fim desta página).*
 | ![Comandos da batalha](imagens/fotos/07_batalha.jpg) | ![Ações do personagem](imagens/fotos/08.jpg) |
 | Comandos da batalha | Ações do personagem |
 
-*Fotos no emulador Azahar.*
 
 ## 📥 Download
 
