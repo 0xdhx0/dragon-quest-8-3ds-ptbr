@@ -18,33 +18,6 @@ fim desta página).*
 > ✅ O jogo inteiro está traduzido e foi testado no emulador Azahar. Se achar algum problema, abra uma
 > [issue](../../issues).
 
-> 🇯🇵 **Na v1.3, todo o texto foi revisado de novo comparando com a versão japonesa do jogo**: nomes, magias, habilidades,
-> descrições e todos os diálogos. Foram corrigidos singular/plural e gênero de quem fala, sentidos que o inglês deixava
-> ambíguos e expressões traduzidas ao pé da letra, mantendo as piadas e sotaques da versão inglesa.
-
-## 🆕 Novidades da v1.6
-
-- **Versão única em português do Brasil.** O pacote agora traz uma tradução só (a antiga "Nomes Traduzidos").
-- **O que ainda estava em inglês agora está em português:** golpes de monstros e da Arena que apareciam em inglês nas
-  mensagens de batalha (*Chicotada em Grupo, Megachicotada, Dança Esquisita, Pânico Metálico, Palmada Slime, Golemizador,
-  Ataque Defensivo, Desconcentrar, Exibir o Muque*…), o golpe do Morrie *Pit Stop* (agora **Parada Técnica**), "None"
-  (**Nenhum**), a **Mulher Fatal**, o **Octávio Máximo**, **O Espeta-Tudo** e a equipe **Os Número Um**
-  da Arena.
-- **Tryan Gully** agora é o **Vale Triangular** (o nome inglês é um trocadilho com *triângulo*, como no japonês 三角谷), em
-  todas as falas, no mapa e nas missões.
-- **Apelidos dos monstros da Arena** recriados em português: Treme-Treme (o slime), Babão, Bruxilda, Pesadão, Olhinho,
-  Demoninho, Gaviãozinho, Estelar, Cogumago e Abutrão.
-- **Interjeições** que ficaram do inglês ("Uuurgh", "Hur hur hur", "Ha ha!") trocadas pelas formas em português, conferindo
-  com o japonês o que cada uma é (gemido, ronco, risada, bocejo, tosse): Aaargh, Ronc, Rá rá rá, Uaaah, Ufa...
-- Os títulos do Morrie que estavam em inglês agora seguem o italiano dele: **~ Combattente Macho ~** e
-  **~ Combattente Muscolo ~**.
-- **Ficam como no original**, por decisão: as imagens do cassino (fichas, roleta, bingo e o SLIME BINGO) e os créditos finais.
-- A v1.5 trouxe a troca de nomes inventados que não faziam sentido em português (*Draculima → Draculimãe,
-  Democrorrobô → Robocrata, Fusão Toupeiricular → Fusão Toupeiratômica*) e a correção de uma fala de Ascantha
-  ("vocês vieram").
-- Para atualizar a partir de qualquer versão anterior, apague a pasta `000400000018F100` antiga e copie a nova. O save
-  continua o mesmo.
-
 ## 📸 Fotos
 
 | | |
