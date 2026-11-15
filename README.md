@@ -3,7 +3,7 @@
 # 🐉 Dragon Quest VIII: Journey of the Cursed King (3DS) — Tradução PT-BR
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
-![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%203DS%20(Azahar)-ce181e)
+![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%203DS-ce181e)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-USA-555)
 ![Release](https://img.shields.io/github/v/release/0xdhx0/dragon-quest-8-3ds-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
