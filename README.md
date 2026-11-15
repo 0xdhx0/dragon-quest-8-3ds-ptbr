@@ -15,8 +15,7 @@ monstros, lugares e imagens com texto em português.
 *Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix (veja o aviso legal no
 fim desta página).*
 
-> ✅ O jogo inteiro está traduzido e foi testado no emulador Azahar. Se achar algum problema, abra uma
-> [issue](../../issues).
+> ✅ O jogo inteiro está traduzido. Se achar algum problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
