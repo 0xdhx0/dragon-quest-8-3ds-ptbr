@@ -44,7 +44,7 @@ um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** abaixo.
 |---|---|---|
 | Diálogos, cenas, conversas do grupo, livros e placas | 28.849 | 100% |
 | Menus, itens, magias, habilidades, monstros, batalha, lojas, igreja, Arena, cassino, missões | 7.573 | 100% |
-| Imagens com texto (tela de título, estúdio de fotos, etiqueta NOVO, mapa inexplorado) | 5 | as do cassino ficam no original |
+| Imagens com texto da interface (tela de título, estúdio de fotos, etiqueta NOVO, mapa inexplorado) | 5 | 100% |
 
 - **Tudo a partir do inglês**, a versão famosa pelo humor britânico, pelos sotaques e pelos nomes cheios de
   trocadilhos. Quando o inglês faz piada, a piada foi recriada em português em vez de traduzida ao pé da letra.
