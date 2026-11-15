@@ -15,18 +15,11 @@ body:
         - Outro
     validations:
       required: true
-  - type: dropdown
-    id: edicao
-    attributes:
-      label: Versão do patch usada
-      options: ["Nomes Traduzidos (tudo em português)", "Nomes Originais (nomes e imagens do jogo original)"]
-    validations:
-      required: true
   - type: input
     id: versao
     attributes:
       label: Versão do patch
-      placeholder: "v0.9-beta"
+      placeholder: "v1.6"
     validations:
       required: true
   - type: input
