@@ -17,7 +17,7 @@ fim desta página).*
 
 > ✅ O jogo inteiro está traduzido. Se achar algum problema, abra uma [issue](../../issues).
 
-## 📸 Fotos
+## 🖼️ Imagens
 
 | | |
 |---|---|
