@@ -42,7 +42,7 @@ um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** abaixo.
 |---|---|---|
 | Diálogos, cenas, conversas do grupo, livros e placas | 28.849 | 100% |
 | Menus, itens, magias, habilidades, monstros, batalha, lojas, igreja, Arena, cassino, missões | 7.573 | 100% |
-| Imagens com texto da interface (tela de título, estúdio de fotos, etiqueta NOVO, mapa inexplorado) | 5 | 100% |
+| Imagens com texto da interface (tela de título, estúdio de fotos, etiqueta NOVO, mapa inexplorado) e as fichas do cassino | 5 + fichas | 100% |
 
 - **Tudo a partir do inglês**, a versão famosa pelo humor britânico, pelos sotaques e pelos nomes cheios de
   trocadilhos. Quando o inglês faz piada, a piada foi recriada em português em vez de traduzida ao pé da letra.
@@ -55,9 +55,9 @@ um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** abaixo.
 
 ### Alguns exemplos
 
-- **Magias:** *Frizz/Frizzle/Kafrizzle → Fogo/Superfogo/Megafogo · Bang/Boom/Kaboom → Explosão/Superexplosão/Megaexplosão*.
-  Os nomes seguem a ideia da versão francesa do jogo (Flamme, Superflamme, Mégaflamme): o prefixo "Ka-" do inglês não faz
-  sentido em português, e com Super e Mega dá para ver a força da magia só pelo nome.
+- **Magias:** *Frizz/Frizzle/Kafrizzle → Fogo/Superfogo/Gigafogo · Bang/Boom/Kaboom → Explosão/Superexplosão/Megaexplosão*.
+  Os nomes seguem o padrão dos outros Dragon Quest em português: base, Super, Mega e Giga mostram a força da magia
+  só pelo nome (o prefixo "Ka-" do inglês não faz sentido em português).
 - **Habilidades:** *Penny Pincher → Pão-Duro · Hip Drop → Rebolada · Golden Oldies → Velha Guarda*
 - **Monstros:** traduzidos, com graça (*Lips → Beiçola · Dracky → Draculino · Troll → Trasgo · Mimic → Mímico*);
   Slime, Golem e Orc ficam, porque já são palavras do português.
@@ -71,7 +71,7 @@ um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** abaixo.
 |---|---|
 | Nomes próprios (Yangus, Jessica, Angelo, Farebury, Baccarat…) | São nomes, iguais em todas as versões do jogo. |
 | Logotipo, subtítulo do logotipo ("Journey of the Cursed King") e copyright | Arte e marcas registradas. |
-| Imagens do cassino (letreiros, SLIME BINGO, bingo, roleta, fichas) | Fazem parte da arte do cassino; ficam como no original. |
+| Imagens do cassino (letreiros, SLIME BINGO, bingo, roleta; as fichas foram traduzidas) | Fazem parte da arte do cassino; ficam como no original. |
 | Falas em italiano do Morrie e em francês da moça do Puff-Puff | De propósito, como no original (o sotaque é a piada). |
 | Puff-Puff | Piada clássica da série; o nome é o mesmo em todas as línguas. |
 | Slime, Golem e Orc | Nomes de monstros que já são palavras usadas em português. |
@@ -120,7 +120,7 @@ Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na traduç�
 ## 🙏 Créditos
 
 - **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
-- **Fontes livres** usadas nas imagens: Anton, Arimo e Russo One (licença OFL) e DejaVu (licença livre).
+- **Fontes livres** usadas nas imagens: Anton, Arimo, Russo One e Rubik (licença OFL) e DejaVu (licença livre).
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todo o texto foi traduzido a partir do inglês com o contexto da
 história e o jeito de falar de cada personagem, conferido pixel a pixel para caber na tela e testado no Azahar. Se achar
